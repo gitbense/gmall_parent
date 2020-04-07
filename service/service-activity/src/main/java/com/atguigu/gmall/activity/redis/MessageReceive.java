@@ -1,6 +1,6 @@
 package com.atguigu.gmall.activity.redis;
 
-import com.atguigu.gmall.activity.util.CacheHelper;
+import com.atguigu.gmall.common.util.CacheHelper;
 import org.apache.commons.lang.StringUtils;
 import org.springframework.stereotype.Component;
 
